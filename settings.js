@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QWBJzSo9WWUFzYBRWZmx2djdXVYJzQ4YEOtMULXBFejNVcj9kM1gmbahlRjQERix2MNlEapwd=55909838749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,23 +19,23 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://nimnadaanuththara62:JKTjroMYE88DmXH6@cluster0.ajet4kc.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
+  OWNER_NAME: 'ｘ 𝛮𝛪𝛭𝛮𝛥𝐷𝛥ㅤ廴✨️💗',
   OWNER_NUMBER: '94715166712',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  STICKER_AUTHOR: 'ｘ 𝛮𝛪𝛭𝛮𝛥𝐷𝛥ㅤ廴✨️💗',
+  STICKER_PACK: ' ➥ ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '👽',
+  OWNER_R_EMOJI: '🪄',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
