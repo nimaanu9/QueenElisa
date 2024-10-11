@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QWBJzSo9WWUFzYBRWZmx2djdXVYJzQ4YEOtMULXBFejNVcj9kM1gmbahlRjQERix2MNlEapwd=55909838749',
-  ALIVE_REACT: '👋',
+  SESSION_ID: 'QUEENELISA;;;==AMCljMD12axFEOzcWbkN3TyIjeLVkaS9Fb4VnMLBnN00UdQJUMz1SO6dXMjIFVMJVV0JlSpwd=55909838749',
+  ALIVE_REACT: '🍃',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
@@ -30,9 +30,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'ｘ 𝛮𝛪𝛭𝛮𝛥𝐷𝛥ㅤ廴✨️💗',
-  STICKER_PACK: ' ➥ ',
+  CAPTION: '*`© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ`*',
+  STICKER_AUTHOR: '✅ 𝛮𝛪𝛭𝛥𝛥 🍃🎭"',
+  STICKER_PACK: '𓆏 ➥',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '🪄',
